@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Few-shot Check"
+  short_description: "Check conflicts, merge candidates, and team coverage"

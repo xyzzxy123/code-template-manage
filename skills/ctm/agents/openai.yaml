@@ -1,0 +1,6 @@
+interface:
+  display_name: "ctm"
+  short_description: "Choose a code few-shot action from the current context"
+
+policy:
+  allow_implicit_invocation: false
